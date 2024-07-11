@@ -1,6 +1,4 @@
-Creating a README.md file for your Django Weatherapp project is essential for providing information about your project, its setup, usage, and any other relevant details. Here's a basic template you can use:
 
-```markdown
 # Weatherapp built in Django
 
 This project is a simple weather application built using Django, which allows users to check the current weather conditions for a location.
