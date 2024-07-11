@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-- Enter a city name or zip code in the provided form and click 'Get Weather'.
+- Enter a city name  in the provided form and click 'Submit'.
 - The application will fetch and display the current weather information for the entered location.
 
 ## Contributing
